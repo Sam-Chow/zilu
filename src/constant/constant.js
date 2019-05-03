@@ -1,0 +1,1 @@
+export default anything => () => anything

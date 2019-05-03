@@ -1,0 +1,20 @@
+{
+  "name": "zilu",
+  "version": "0.0.1",
+  "repository": "git@github.com:Sam-Chow/zilu.git",
+  "bugs": "https://github.com/Sam-Chow/zilu/issues",
+  "keywords": [
+    "util",
+    "functional"
+  ],
+  "author": "Sam-Chow",
+  "license": "MIT",
+  "scripts": {},
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-recommended": "^4.0.0",
+    "eslint-plugin-import": "^2.17.2",
+    "eslint-plugin-prettier": "^3.0.1",
+    "prettier": "1.17.0"
+  }
+}
